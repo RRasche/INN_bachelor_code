@@ -2,12 +2,11 @@
 Code for my Bachelor Thesis.
 
 * plot scripts
-	* approx_sin.png 		-> universal_approximation.py
-	* SGD.png 				-> SGD.py
-	* feature_map_2D.png	-> feature_map_example.py
-	* feature_map_3D.png  	-> feature_map_example.py
-	* sigmoid.png			-> functions.py
-
+	* approx_sin.png&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-> universal_approximation.py
+	* SGD.png&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-> SGD.py
+	* feature_map_2D.png&nbsp;&nbsp;&nbsp;&nbsp;-> feature_map_example.py
+	* feature_map_3D.png&nbsp;&nbsp;&nbsp;&nbsp;-> feature_map_example.py
+	* sigmoid.png&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-> functions.py
 * network_code
 	* preliminary versions
 		* polar1backward.png	-> polar.py (settings in conf_network.txt)
