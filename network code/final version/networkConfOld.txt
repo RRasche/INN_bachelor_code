@@ -1,0 +1,8 @@
+right version:
+	loss_weights=[alpha,0.3,0.3,alpha]
+
+same weight
+	loss_weights=[1,1,1,1]
+
+wrong weight
+	loss_weights=[300,1,1,350]

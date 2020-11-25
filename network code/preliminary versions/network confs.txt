@@ -1,0 +1,3 @@
+
+right weights
+loss_weights=[50, 1.0,1.0,250.0]
