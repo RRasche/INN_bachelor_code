@@ -1,0 +1,10 @@
+Cartasian to polar coordinates -> 2D invariant laplace distribution xmean = 4.0, ymean = 0.0, stdv(x and y) = 1.0
+only x and y as input, not shuffled between blocks
+5 blocks with 6 layers per subnetwork.
+Layersize = 64, layer activation = leacky relu(alpha=0.2), 
+kernel initilizer = glorot_uniform
+bias initilizer = constant(0.01)
+trained on 10000 (x,y) samples two times, batchsize = 256
+repeated 20 times.
+optimizer = Adam(learning_rate=0.0001, beta_1=0.99, beta_2=0.999, amsgrad=False)
+loss = mse
