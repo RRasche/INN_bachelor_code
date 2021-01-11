@@ -11,7 +11,7 @@ from tensorflow_probability import distributions as tfd
 #own functions/classes
 import gaussian #contains the function to create a gaussian mixture model
 import losses #contains the MMD loss used to train the network
-from network_classes import INNBlock, INNBlockLast, INN #contains the classes to build an INN
+from networkClasses import INNBlock, INNBlockLast, INN #contains the classes to build an INN
 
 #uncomment to run without using the GPU
 # import os
